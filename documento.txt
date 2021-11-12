@@ -7,3 +7,5 @@ Mi nombre es Abraham de 23 años de edad
 Estudio en platzi el curso de Git y GitHub
 
 Vive en Sololá un departamento de Guatemala
+
+Le gusta jugar al futbol pero es malo porque se lastimo la rodia
