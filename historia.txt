@@ -4,6 +4,8 @@ esto nos servira para hacer pruebas
 
 Mi nombre es Abraham de 23 años de edad
 
+Hola soy Prueba nuevo integrante en este proyecto 
+
 Estudio en platzi el curso de Git y GitHub
 
 Vive en Sololá un departamento de Guatemala
